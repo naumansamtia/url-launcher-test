@@ -4,7 +4,7 @@
 
 ## Demo
 
-![](screenshot.png)
+![](screenshot1.png)
 
 ## Getting Started
 clone this repo
